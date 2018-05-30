@@ -1,0 +1,25 @@
+.question-text-edit {
+  width: 100%;
+  border: none;
+  outline: none;
+
+  color: #313233;
+  font-size: 3rem;
+  letter-spacing: -1px !important;
+  font-family: 'Playfair Display', serif;
+
+  font-weight: black; 
+}
+
+.question-text-edit input[type="text"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #847799;
+    opacity: 1; /* Firefox */
+}
+
+.question-text-edit input[type="text"]:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #847799;
+}
+
+.question-text-edit input[type="text"]::-ms-input-placeholder { /* Microsoft Edge */
+    color: #847799;
+}

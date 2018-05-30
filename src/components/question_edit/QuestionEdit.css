@@ -1,0 +1,13 @@
+.question-edit {
+  display: block;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0;
+}
+
+.question-edit .question-text-edit {
+  margin-bottom: 0.5rem;
+}
+
+.question-edit .question-choice-edit {
+  margin-bottom: 0.5rem;
+}

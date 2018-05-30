@@ -1,0 +1,23 @@
+{
+  "name": "quizzer",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://wenqinye.github.io/truthandlies/",
+  "dependencies": {
+    "firebase": "^4.11.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-firebaseui": "^1.1.9",
+    "react-motion": "^0.5.2",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-transition-group": "^2.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build&gh-pages -d build"
+  }
+}

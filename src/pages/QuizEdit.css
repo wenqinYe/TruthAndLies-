@@ -1,0 +1,34 @@
+.quiz-edit {
+  width: 100%;
+}
+
+.quiz-edit .tips {
+  color: #C2B0E2;
+}
+
+.quiz-edit .quiz-editor {
+
+}
+
+.quiz-edit .user-info {
+  width: 100%;
+}
+
+.quiz-edit .user-name {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+
+.quiz-edit .user-photo {
+  display: block;
+  width: 10em;
+  height: auto;
+  border-radius: 100em;
+  margin: 0 auto;
+}
+
+.quiz-edit .action-button {
+  margin-top: 3em;
+}

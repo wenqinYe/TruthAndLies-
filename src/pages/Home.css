@@ -1,0 +1,35 @@
+.home-page {
+  color: white;
+}
+
+.home-page .showoff-photo {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+  width: 100%;
+  height: auto;
+}
+
+.home-page .row {
+  margin-top: 2em;
+}
+
+.home-page .main {
+  text-align: center;
+  margin-bottom: 6em;
+}
+
+.home-page-logged-in {
+  text-align: center;
+}
+
+.home-page-logged-in a {
+  vertical-align: middle;
+}
+
+.home-page-logged-in section {
+  margin: 1em;
+}
+
+.home-page-logged-in button {
+  padding-left: 3em;
+  padding-right: 3em;
+}

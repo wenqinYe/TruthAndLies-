@@ -1,0 +1,34 @@
+.quiz .question-container {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
+
+.quiz .question-container .question {
+  margin: 0 auto;
+}
+
+
+.quiz-end {
+  color: white;
+  text-align: center;
+}
+
+.quiz-end .name-text {
+  color: rgba(255,255,255,0.50);
+}
+
+.quiz-end .result {
+  font-weight: bolder;
+  font-size: 3em;
+}
+
+.quiz-end .divider {
+  margin-top: 4em;
+}
+
+.quiz-end .divider + h3 {
+  margin-top: 4em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}

@@ -1,0 +1,33 @@
+.question-choice-edit {
+  display: block;
+}
+
+.question-choice-edit input[type="text"] {
+  display: block;
+  outline: none;
+  border: none;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  width: 100%;
+
+  border-left: 0.5rem solid #4FBA93;
+  color: #313233;
+  font-family: 'Fauna One', serif;
+}
+
+.question-choice-edit input[type="text"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #C2B0E2;
+    opacity: 1; /* Firefox */
+}
+
+.question-choice-edit input[type="text"]:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #C2B0E2;
+}
+
+.question-choice-edit input[type="text"]::-ms-input-placeholder { /* Microsoft Edge */
+    color: #C2B0E2;
+}
+
+.question-choice-edit input[type="text"]:focus {
+}

@@ -1,0 +1,14 @@
+.choice {
+  background: #4D3675;
+  border: 1px solid #1E142F;
+  border-radius: 6px;
+
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.25em;
+  color: #C2B0E2;
+
+  padding: 1em;
+
+  text-align: center;
+}

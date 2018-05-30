@@ -1,0 +1,33 @@
+.user-profile {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.user-profile .profile-photo-medium {
+  margin: 0 auto;
+}
+
+.user-profile .user-name {
+  font-size: 1.25em;
+  margin: 0;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.user-profile .action-button {
+  box-sizing: border-box;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 1.5em;
+}
+
+.user-profile .divider {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.user-profile h4 {
+  margin-bottom: 1em !important;
+}

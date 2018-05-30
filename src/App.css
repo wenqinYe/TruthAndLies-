@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box !important;
+    margin, padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  font-size: 100%;
+}
+
+.App {
+  height: 100%;
+  font-size: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  color: white;
+}
+
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.navbar {
+
+}
+
+.navbar a {
+
+}
+
+.navabr .navbar-brand {
+}
+
+.action-button {
+  background: #D94444;
+  border: 1px solid #331456;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 1.25em;
+  padding: 1em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+
+  color: white;
+  font-weight: 900;
+
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.secondary-button {
+  background: #4D3675;
+  border: 1px solid #1E142F;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 1.25em;
+  padding: 1em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+
+  color: white;
+  font-weight: 900;
+}
+
+
+.no-padding {
+  padding: 0.5em !important;
+}
+
+.block {
+  width: 100%;
+  display: block;
+}
+
+.navbar {
+  padding: 0.25em;
+}
+
+.profile-photo-medium {
+  width: 10em;
+  height: 10em;
+  display: block;
+  border-radius: 100em;
+}
+
+.divider {
+  width: 4em;
+  height: 0.5em;
+  background-color: rgba(0,0,0,0.42);
+  margin: 0 auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.container {
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  background-color: #9376C5;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
+  color: white;
+}

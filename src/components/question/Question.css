@@ -1,0 +1,13 @@
+.question .question-text{
+  color: white;
+  font-size: 2em;
+  font-weight: bolder;
+  font-family: "Roboto";
+  font-weight: 900;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.question .choice {
+  margin-top: 0.5em;
+}
